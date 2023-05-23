@@ -1,46 +1,46 @@
 [
   {
-    "code3": "GB",
+    "code3": "GBR",
     "z": 3754661,
     "code": "GB"
   },
   {
-    "code3": "US",
+    "code3": "USA",
     "z": 1912350,
     "code": "US"
   },
   {
-    "code3": "SG",
+    "code3": "SGP",
     "z": 929460,
     "code": "SG"
   },
   {
-    "code3": "HK",
+    "code3": "HKG",
     "z": 694359,
     "code": "HK"
   },
   {
-    "code3": "JP",
+    "code3": "JPN",
     "z": 432527,
     "code": "JP"
   },
   {
-    "code3": "CH",
+    "code3": "CHE",
     "z": 349742,
     "code": "CH"
   },
   {
-    "code3": "FR",
+    "code3": "FRA",
     "z": 213730,
     "code": "FR"
   },
   {
-    "code3": "DE",
+    "code3": "DEU",
     "z": 183934,
     "code": "DE"
   },
   {
-    "code3": "CA",
+    "code3": "CAN",
     "z": 171952,
     "code": "CA"
   }
