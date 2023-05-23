@@ -1,36 +1,38 @@
-   {
-      code: 'GB',
-      z: 3754661 // United Kingdom
-    },
-    {
-      code: 'US',
-      z: 1912350 // United States
-    },
-    {
-      code: 'SG',
-      z: 929460 // Singapore
-    },
-    {
-      code: 'HK',
-      z: 694359 // Hong Kong SAR
-    },
-    {
-      code: 'JP',
-      z: 432527 // Japan
-    },
-    {
-      code: 'CH',
-      z: 349742 // Switzerland
-    },
-    {
-      code: 'FR',
-      z: 213730 // France
-    },
-    {
-      code: 'DE',
-      z: 183934 // Germany
-    },
-    {
-      code: 'CA',
-      z: 171952 // Canada
-    }
+[
+  {
+    "code": "GB",
+    "z": 3754661
+  },
+  {
+    "code": "US",
+    "z": 1912350
+  },
+  {
+    "code": "SG",
+    "z": 929460
+  },
+  {
+    "code": "HK",
+    "z": 694359
+  },
+  {
+    "code": "JP",
+    "z": 432527
+  },
+  {
+    "code": "CH",
+    "z": 349742
+  },
+  {
+    "code": "FR",
+    "z": 213730
+  },
+  {
+    "code": "DE",
+    "z": 183934
+  },
+  {
+    "code": "CA",
+    "z": 171952
+  }
+]
